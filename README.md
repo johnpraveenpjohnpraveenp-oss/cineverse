@@ -2,7 +2,7 @@
 
 A premium, feature-rich movie streaming website built with **HTML, CSS & JavaScript**. Browse trending, top-rated & upcoming movies across 18+ languages with real-time TMDB data, an embedded video player, and a glassmorphism login page.
 
-🌐 **Live Demo:** [https://saisaran-m.github.io/cineverse/](https://saisaran-m.github.io/cineverse/)
+🌐 **Live Demo:** [https://saisaran-m.github.io/cineverse/](https://johnpraveen-p.github.io/cineverse/)
 
 ---
 
