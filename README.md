@@ -2,7 +2,7 @@
 
 A premium, feature-rich movie streaming website built with **HTML, CSS & JavaScript**. Browse trending, top-rated & upcoming movies across 18+ languages with real-time TMDB data, an embedded video player, and a glassmorphism login page.
 
-🌐 **Live Demo:** [https://saisaran-m.github.io/cineverse/](https://johnpraveen-p.github.io/cineverse/)
+🌐 **Live Demo:** john the don
 
 ---
 
@@ -124,7 +124,6 @@ Then open **http://localhost:8080** in your browser.
 
 This project is deployed using **GitHub Pages**:
 
-🔗 **[https://saisaran-m.github.io/cineverse/](https://saisaran-m.github.io/cineverse/)**
 
 ---
 
@@ -163,9 +162,7 @@ This project is open source and available for personal and educational use.
 ---
 
 ## 👨‍💻 Author
-
-**Sai Saran**
-- GitHub: [@saisaran-m](https://github.com/saisaran-m)
+"john the don"
 
 ---
 
